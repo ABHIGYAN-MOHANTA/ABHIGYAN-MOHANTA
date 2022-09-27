@@ -4,7 +4,7 @@ Hi 👋 My name is Abhigyan Mohanta
 Beginner
 --------
 
-Learning DSA in Java | Web Dev | Python | Android Dev | Machine Learning | Cloud
+Learning DSA in Java | Web Dev | Web3 | Python | Android Dev | Machine Learning | Cloud | DevOps | Security
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=25&pause=1000&color=6772F7&width=435&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
