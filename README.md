@@ -1,8 +1,15 @@
+Hi 👋 My name is Abhigyan Mohanta
+=================================
+
+Beginner
+--------
+
 Learning DSA in Java | Web Dev | Python | Android Dev | Machine Learning | Cloud
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India
 
 ### Skills
+
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -23,10 +30,10 @@ Learning DSA in Java | Web Dev | Python | Android Dev | Machine Learning | Cloud
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ABHIGYAN-MOHANTA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MohantaAbhigyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
