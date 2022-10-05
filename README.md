@@ -38,11 +38,5 @@ Learning DSA in Java | Web Dev | Web3 | Python | Android Dev | Machine Learning 
 <p align="left"> <a href="https://www.github.com/ABHIGYAN-MOHANTA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MohantaAbhigyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-<b>My GitHub Stats</b>
-
-
-     <a href="http://www.github.com/ABHIGYAN-MOHANTA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIGYAN-MOHANTA&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
 ### Badges
 [![@abhigyan's Holopin board](https://holopin.io/api/user/board?user=abhigyan)](https://holopin.io/@abhigyan)
