@@ -39,7 +39,8 @@ Learning DSA in Java | Web Dev | Web3 | Python | Android Dev | Machine Learning 
 
 <div style="width:60px ; height:60px">
   ![octocat-1663398751399](https://user-images.githubusercontent.com/110360901/198567672-a61776c8-fceb-4d6b-9117-2708177eee1c.png)
-</div>  
+</div> 
+<img src="https://user-images.githubusercontent.com/110360901/198567672-a61776c8-fceb-4d6b-9117-2708177eee1c.png" style=" width:60px ; height:60px "  >
 
 <a href="https://github.com/ABHIGYAN-MOHANTA" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIGYAN-MOHANTA&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
