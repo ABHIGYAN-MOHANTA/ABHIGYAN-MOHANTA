@@ -12,22 +12,18 @@ Software Engineer | Java | Python | WebDev (MERN Stack) | Twilio Field Operator 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ABHIGYAN-MOHANTA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ABHIGYAN-MOHANTA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIGYAN-MOHANTA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ABHIGYAN-MOHANTA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIGYAN-MOHANTA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ABHIGYAN-MOHANTA&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ABHIGYAN-MOHANTA&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=MohantaAbhigyan)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-<img src="https://user-images.githubusercontent.com/110360901/198567672-a61776c8-fceb-4d6b-9117-2708177eee1c.png" style="width: 300px; height: 300px; float: right;">
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://user-images.githubusercontent.com/110360901/198567672-a61776c8-fceb-4d6b-9117-2708177eee1c.png" style="width: 150px; height: 150px; float: right;">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
