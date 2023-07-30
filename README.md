@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+<img src= "https://www.codewars.com/users/ABHIGYAN-MOHANTA/badges/large" alt="Abhigyan's Codewars"/>
 Software Engineer | Java | Python | WebDev (MERN Stack) | Twilio Field Operator | #100Devs | https://abhigyan.start.page
 
 ## 🌐 Socials:
