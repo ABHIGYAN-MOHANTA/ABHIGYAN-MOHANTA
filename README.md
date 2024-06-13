@@ -1,5 +1,8 @@
-## Software Engineer | https://abhigyan-mohanta.vercel.app
-
-### 💻 Stats
-[![ABHIGYAN-MOHANTA's GitHub | Stats](https://stats.quine.sh/ABHIGYAN-MOHANTA/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ABHIGYAN-MOHANTA)
-[![ABHIGYAN-MOHANTA's GitHub | Dependencies](https://stats.quine.sh/ABHIGYAN-MOHANTA/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ABHIGYAN-MOHANTA)
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> Software Engineer | https://abhigyan-mohanta.vercel.app
+- Hi 👋, This is Abhigyan!
+- Full Stack/Software Developer
+- Skills: Java, Elixir, Next.js, React, React Native, Redux, Node, Express, MongoDB, PostgreSQL, TypeScript, Python, Docker
+- Built: Everything from full stack websites to mobile and desktop apps, automation softwares to chrome extensions
+- Learning: AI/ML, Phoenix Framework and Go
+## 💻 Github Stats
+![](./profile-3d-contrib/profile-night-rainbow.svg)
