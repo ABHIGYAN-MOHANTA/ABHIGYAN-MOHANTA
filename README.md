@@ -7,5 +7,11 @@
 - Built: Everything from full stack websites to mobile and desktop apps, automation softwares to chrome extensions
 - Learning: AI/ML, Phoenix Framework and Go
 - Resume: [Link](https://abhigyan-mohanta.github.io/resume/)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 ## 💻 Github Stats
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
