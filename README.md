@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2025 - To: 17 August 2025
+From: 11 August 2025 - To: 18 August 2025
 
 Go        1 hr 7 mins     ███████████████████████▒░   93.91 %
 confini   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
