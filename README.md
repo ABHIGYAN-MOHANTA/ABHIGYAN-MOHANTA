@@ -13,13 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-TypeScript    1 hr 40 mins    ███████████████▒░░░░░░░░░   61.03 %
-Markdown      31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-JSON          18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Bash          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Git Config    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
