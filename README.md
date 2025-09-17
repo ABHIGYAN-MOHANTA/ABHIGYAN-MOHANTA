@@ -13,13 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 14 September 2025
+From: 09 September 2025 - To: 16 September 2025
 
-Go           4 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.55 %
-TypeScript   2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-YAML         1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Markdown     1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Other        54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
