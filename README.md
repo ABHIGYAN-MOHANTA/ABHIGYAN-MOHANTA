@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Markdown   7 mins          █████████████████▓░░░░░░░   70.84 %
-Bash       2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.06 %
-Text       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Markdown   7 mins          █████████████████░░░░░░░░   68.46 %
+Bash       3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Text       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
