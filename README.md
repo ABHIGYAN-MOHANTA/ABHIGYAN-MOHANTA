@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
 Other   1 hr 50 mins    ██████████████▒░░░░░░░░░░   56.71 %
 Bash    1 hr 14 mins    █████████▓░░░░░░░░░░░░░░░   38.01 %
