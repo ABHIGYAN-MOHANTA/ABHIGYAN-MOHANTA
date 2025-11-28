@@ -13,13 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2025 - To: 26 November 2025
+From: 20 November 2025 - To: 27 November 2025
 
-Go           0 secs          ███████████░░░░░░░░░░░░░░   43.61 %
-Makefile     0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.84 %
-Bash         0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
