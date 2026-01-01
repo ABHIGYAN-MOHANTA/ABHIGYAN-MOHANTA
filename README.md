@@ -13,13 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-JavaScript   10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.54 %
-HTML         8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.47 %
-TypeScript   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
-Markdown     4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Other        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+JavaScript   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
