@@ -13,12 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-C++          5 hrs 3 mins          ███████████████████████░░   92.59 %
-Markdown     23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Makefile     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C++        1 hr 44 mins          ██████████████████████▓░░   90.52 %
+Markdown   9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Makefile   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
