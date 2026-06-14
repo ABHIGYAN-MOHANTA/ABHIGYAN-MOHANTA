@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2026 - To: 12 June 2026
+From: 06 June 2026 - To: 13 June 2026
 
 Astro        4 hrs 21 mins         █████████████▓░░░░░░░░░░░   54.74 %
 Lua          1 hr 46 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
