@@ -13,9 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-No activity tracked
+TypeScript   3 hrs 34 mins         ██████████████████░░░░░░░   72.35 %
+Markdown     46 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Other        28 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+JSON         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
