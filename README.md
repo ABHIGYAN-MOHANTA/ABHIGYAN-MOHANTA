@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2026 - To: 22 August 2026
+From: 16 August 2026 - To: 23 August 2026
 
-Markdown        1 hr 21 mins          ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-TypeScript      58 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-Astro           42 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-MDX             40 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Linker Script   19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Linker Script   19 mins               ██████████▒░░░░░░░░░░░░░░   41.91 %
+Markdown        14 mins               ███████▓░░░░░░░░░░░░░░░░░   30.46 %
+TypeScript      7 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+C               5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
 ```
 
 <!--END_SECTION:waka-->
