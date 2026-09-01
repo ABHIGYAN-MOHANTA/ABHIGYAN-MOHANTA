@@ -13,9 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2026 - To: 30 August 2026
+From: 24 August 2026 - To: 31 August 2026
 
-No activity tracked
+JSON       2 hrs 58 mins         ██████████████████▒░░░░░░   73.70 %
+Markdown   58 mins               ██████░░░░░░░░░░░░░░░░░░░   24.28 %
+Bash       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
