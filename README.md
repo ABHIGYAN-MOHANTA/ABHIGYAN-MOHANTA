@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-JSON       2 hrs 58 mins         ██████████████████▒░░░░░░   73.70 %
-Markdown   58 mins               ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-Bash       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON       2 hrs 58 mins         ██████████████▒░░░░░░░░░░   57.84 %
+Other      1 hr 6 mins           █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+Markdown   58 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Bash       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
