@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
 Java       18 mins               ██████████▓░░░░░░░░░░░░░░   42.61 %
 Markdown   11 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
