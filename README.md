@@ -10,13 +10,4 @@
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVzbjE3Z3F6bDhrNGtzYWpiODJkeTRhcHRqN3MwaGV2cTZ3ajR3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="20" height="20" /> Github Stats
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
